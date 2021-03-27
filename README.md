@@ -2,7 +2,9 @@
 
 Dear Interns,
 
-The second task is to work with **Parallax scrolling** with a bit of **JS.** In attachment you can find the sample **HTML**, **CSS** and **JavaScript.** To visualize the code you can use the online IDE: [CodePen (https://codepen.io).](https://codepen.io)
+The second task is to work with **Parallax scrolling** with a bit of **JS.**.
+
+To visualize the code you can use the online IDE: [CodePen (https://codepen.io).](https://codepen.io)
 
 We need you to read/understand the code and to use your creativity to design your **own version** of parallax universe. Enjoy!
 
